@@ -1,3 +1,3 @@
 # java-dsa-patterns
 
-Following NC-150 roadmap.
+Completed Neetcode 150 roadmap. Solutions are organized by problem number.
